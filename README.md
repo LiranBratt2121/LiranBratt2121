@@ -18,14 +18,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LiranBratt2121&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=LiranBratt2121&icon=2&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰  Gotta get this limelight 3
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Gotta @liranbratt ) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
